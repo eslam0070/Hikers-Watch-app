@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hiker\'s Watch</string>
+    <string name="latitude_40_4578">Latitude: 40.4578</string>
+    <string name="longitude_40_4578">Longitude: 40.4578</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="altitude">Altitude</string>
+    <string name="address">Address</string>
+</resources>
